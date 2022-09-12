@@ -8,7 +8,7 @@ Independent ethical open-source solutions
 *   🖥️  See my portfolio at [xoren.io](https://www.xoren.io/)
 *   ✉️  You can contact me at [john@xoren.io](mailto:github@xoren.io)
 *   🚀  I'm currently working on [Onfigr](https://onfigr.com)
-*   🚀  Playing on [Twisted](https://twisted.bar)
+*   🕹️  Playing on [Twisted](https://twisted.bar)
 
 ### Skills
 <p align="left">
