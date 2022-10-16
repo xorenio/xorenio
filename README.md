@@ -1,16 +1,24 @@
-Hi 👋 My name is John
+ 👋 John here
 =====================
 
 Independent ethical open-source solutions
 -----------------------------------------
 
-*   🌍  I'm based in United kingdom
-*   🖥️  See my portfolio at [xoren.io](https://www.xoren.io/)
+*   🌍  Connecting from the United kingdom.
+*   🖥️  Portfolio here [xoren.io](https://www.xoren.io/)
 *   ✉️  You can contact me at [john@xoren.io](mailto:github@xoren.io)
-*   🚀  I'm currently working on [Onfigr](https://onfigr.com)
+*   🚀  Currently working on [Onfigr](https://onfigr.com)
 *   🕹️  Playing on [Twisted](https://twisted.bar)
 
-### Skills
+### 🪐 Sponsor
+
+<a href="https://github.com/sponsors/xorenio">
+  <img alt="GitHub" src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Sponsor%20on%20GitHub-lightgrey"  >
+</a>
+
+
+### 🚂 Skills
+
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/full_colored_dark.svg" width="36" height="36" alt="Bash" /></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -27,6 +35,6 @@ Independent ethical open-source solutions
 </p>
 
 
-### Socials
+### 🛰️ Socials
 
 <p align="left"> <a href="https://www.github.com/xorenio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
