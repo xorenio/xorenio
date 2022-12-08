@@ -31,6 +31,7 @@ Independent ethical open-source solutions
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 </p>
 
