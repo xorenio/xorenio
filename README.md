@@ -10,17 +10,13 @@ Independent ethical open-source solutions
 *   🚀  Currently working on [Onfigr](https://onfigr.com)
 *   🕹️  Playing on [Twisted](https://twisted.bar)
 
-### 🪐 Sponsor
-
-<a href="https://github.com/sponsors/xorenio">
-  <img alt="GitHub" src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Sponsor%20on%20GitHub-lightgrey"  >
-</a>
-
 
 ### 🚂 Skills
 
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/full_colored_dark.svg" width="36" height="36" alt="Bash" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -29,6 +25,8 @@ Independent ethical open-source solutions
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://Nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
@@ -38,3 +36,15 @@ Independent ethical open-source solutions
 ### 🛰️ Socials
 
 <p align="left"> <a href="https://www.github.com/xorenio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+
+### 🪐 Sponsor
+
+<a href="https://github.com/sponsors/xorenio">
+  <img alt="GitHub sponsors" src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Sponsor%20on%20GitHub-lightgrey"  >
+</a>
+
+<a href="https://github.com/sponsors/xorenio">
+  <img alt="Monero" src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/jquery-colored.svg" width="36" height="36" >
+  `8C4aPheegGBL2oSqzN2qjsXf1Pgcc3BiZSP4jEaoA8iCje1nULSx6uZHw89Rsyg2DwY9Jm1wfnTb9HiYNjExNzQT6ftZs8S`
+</a>
