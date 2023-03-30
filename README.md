@@ -1,7 +1,7 @@
  👋 John here
 =====================
 
-Independent ethical open-source solutions
+Sombrero wearing lamp
 -----------------------------------------
 
 *   🌍  Connecting from the United kingdom.
