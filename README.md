@@ -6,7 +6,7 @@ Sombrero wearing lamp
 
 *   🌍  Connecting from the United kingdom.
 *   🖥️  Portfolio here [xoren.io](https://www.xoren.io/)
-*   ✉️  You can contact me at [john@xoren.io](mailto:github@xoren.io)
+*   ✉️  You can contact me at [me@xoren.io](mailto:me@xoren.io)
 *   🚀  Currently working on [Onfigr](https://onfigr.com)
 *   🕹️  Playing on [Twisted](https://twisted.bar)
 
