@@ -1,8 +1,6 @@
- 👋 John here
-=====================
+<h1 align="center">👋 Hi I'm John 👋</h1>
+<h3 align="center">Sombrero wearing lamp</h3>
 
-Sombrero wearing lamp
------------------------------------------
 
 *   🌍  Connecting from the United kingdom.
 *   🖥️  Portfolio here [xoren.io](https://www.xoren.io/)
@@ -11,11 +9,12 @@ Sombrero wearing lamp
 *   🕹️  Playing on [Twisted](https://twisted.bar)
 
 
-### 🚂 Skills
+### 🚂 Languages and Tools:
 
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/full_colored_dark.svg" width="36" height="36" alt="Bash" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.arduino.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
@@ -30,12 +29,6 @@ Sombrero wearing lamp
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 </p>
-
-
-### 🛰️ Socials
-
-<p align="left"> <a href="https://www.github.com/xorenio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xorenio/xorenio/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 
 ### 🪐 Sponsor
 
