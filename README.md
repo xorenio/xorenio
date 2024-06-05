@@ -6,7 +6,7 @@
 *   🖥️  Portfolio here [xoren.io](https://www.xoren.io/)
 *   ✉️  You can contact me at [me@xoren.io](mailto:me@xoren.io)
 *   🚀  Currently working on [XOREN.IO](https://www.xoren.io)
-*   🕹️  Playing on [Twisted](https://twisted.bar)
+*   🕹️  Playing on [Redlight](https://redlight.makeup/)
 
 
 ### 🚂 Languages and Tools:
